@@ -26,10 +26,10 @@ I specialize in designing and deploying scalable, production-ready systems that 
 
 ---
 
-## 📈 GitHub Statistics
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahnouxeve&show_icons=true&theme=radical)
+<!--## 📈 GitHub Statistics
+/![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahnouxeve&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnouxeve&layout=compact&theme=radical)
-
+-->
 ---
 
 ## 📫 Let's Connect
